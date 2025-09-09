@@ -1,1 +1,0 @@
-# -Redu-o_de_Dimensionalidade_em_Imagens
